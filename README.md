@@ -2,8 +2,6 @@
 
 Dojo attempts to centralize time and resource consuming training steps in machine learning projects
 
-## Macro architecture
-
 The context in which `dojo` is relevant is shown below.
 
 A service to support data scientists with pragmatic issues:
