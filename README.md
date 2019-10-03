@@ -43,18 +43,18 @@ Roadmap can be summarized as follows:
       2. [ ] Server
       3. [ ] Job queue
       4. [ ] Workers
-   4. Tests
+   4. [ ] Tests
 
 ## Tests
 
-#### Load test: concurrency
+##### LOAD TEST: Concurrency
 
 Perform simultaneous requests for each endpoint that is known to call complex enough chunks of code.
 
-#### Fault tolerance: failure recovery
+##### FAULT TOLERANCE: Failure recovery
 
 Simulate scenarios that specifics components fail to ensure core system robustness.
 
-#### Integration: feature testing
+#### INTEGRATION: Feature testing
 
 Simulate expected scenarios that features are supposed to work
