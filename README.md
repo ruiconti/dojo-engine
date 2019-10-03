@@ -1,13 +1,10 @@
 # 🥋 dojo
-A service to receive model artefacts and training recipes to  machine learning models asynchronously 
-
-## Macro architecture
 
 Dojo attempts to centralize time and resource consuming training steps in machine learning projects
 
-![Dojo](docs/Dojo.png)
+## Macro architecture
 
-The context in which `dojo` is relevant is shown above.
+The context in which `dojo` is relevant is shown below.
 
 A service to support data scientists with pragmatic issues:
 
@@ -17,6 +14,8 @@ A service to support data scientists with pragmatic issues:
    1. continuous improvement (testing) pipelines,
    2. ensure reproducibility,
    3. encourages peer-review 
+   
+![Dojo](docs/Dojo.png)
 
 ## Architecture
 
